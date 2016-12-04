@@ -1,0 +1,6 @@
+-cp .
+-swf ./muses.swf
+-main MusesRadioPlayer
+-swf-version 10.1
+-swf-header 300:20:12:000000
+-swf-lib Resource.swf
